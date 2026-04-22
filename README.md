@@ -1,5 +1,7 @@
 ### Hi there 👋
+## I am Samrat, FullStack Web Developer ( NEXTJS | TS | PSQL | NESTJS )
 
+🟢 Current Status : Exploring Backend & Infra Development 
 <!--
 **samrat-gh/samrat-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
