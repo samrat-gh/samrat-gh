@@ -1,18 +1,7 @@
-### Hi there 👋
-## I am Samrat, FullStack Web Developer ( NEXTJS | TS | PSQL | NESTJS )
+# Hi 👋
 
-🟢 Current Status : Exploring Backend & Infra Development 
-<!--
-**samrat-gh/samrat-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Engineer focused on building scalable web applications with Next.js, TypeScript, Node.js, PostgreSQL, and MongoDB.
 
-Here are some ideas to get you started:
+I enjoy building product-focused systems, optimizing performance, and shipping production-ready applications from frontend to backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning NextJS, TypeScript
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring backend systems, infrastructure, and scalable architecture.
